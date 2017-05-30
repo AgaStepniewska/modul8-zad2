@@ -1,0 +1,26 @@
+{
+  "name": "agulka-zad2mod8",
+  "version": "1.0.0",
+  "description": "work with js",
+  "main": "index.js",
+  "scripts": {
+    "test": "agula-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pinko3004/modul8-zad2.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Agnieszka Stepniewska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pinko3004/modul8-zad2/issues"
+  },
+  "homepage": "https://github.com/Pinko3004/modul8-zad2#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
+}
